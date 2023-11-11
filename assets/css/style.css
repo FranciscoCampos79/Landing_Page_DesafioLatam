@@ -1,0 +1,49 @@
+body {
+    font-family: 'Dancing Script', cursive;
+    
+}
+
+header{
+    color: rgb(140, 140, 233);
+    height: 100px;
+    padding: 40px;
+    font-size: 20px;
+    background-image: url("../img/completo-titulo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-color: rgb(216, 242, 242);
+    background-position: right;
+}
+
+.titulo {
+    padding-left: 50px;
+}
+
+main {
+    margin: 80px;
+    padding: 80px;
+    background-position: center;
+    background-color: rgb(227, 242, 196);
+}
+
+main img {
+    height: 150px;
+    width: 200px;
+    margin: 10px 50px 10px 50px;
+    padding: 10px 50px 10px 50px;
+}
+
+.ingredientes {
+    margin: 10px 50px 10px 50px;
+    padding: 10px 50px 10px 50px;
+}
+
+footer {
+    background-color: rgb(209, 177, 239);
+}
+
+.texto-footer {
+    padding: 20px 200px 20px 200px;
+    margin: 20px 200px 20px 200px;
+    text-align: center;
+}
